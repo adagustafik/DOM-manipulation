@@ -1,0 +1,18 @@
+h1 {
+  color: #f06739;
+}
+h2 {
+  color: #8242b0;
+}
+ul {
+  line-height: 1.4;
+  list-style-type: square;
+}
+ol {
+  color: #d02ad0;
+  text-decoration-line: underline;
+}
+.blue {
+  color: blue;
+  text-decoration-line: underline;
+}
