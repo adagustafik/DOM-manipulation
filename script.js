@@ -1,5 +1,5 @@
 let menofky = ['Ivan', 'Aďa', 'Filip', 'Zuzka', 'Daniel', 'Paulínka', 'Marek'];
-menofky.forEach ((name) => {
-    $('ul').append("<li>" + name + "</li>");
+menofky.forEach ((meno) => {
+    $('ul').append("<li>" + meno + "</li>");
 });
-$('menofky').css('font-weight', 'bold');
+$(name|='Aďa').css('font-weight', 'bold');
